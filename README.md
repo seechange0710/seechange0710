@@ -30,11 +30,18 @@
 |[Master_thesis](https://github.com/seechange0710/Master-thesis)| Scripts used for raw data preprocessing of bulk RNAseq data in master thesis project|finished|
 |[Tools_Dev](https://github.com/seechange0710/Tools_Dev)| Open-source codes aimed to providing easy access to biological data query and analysis|regular update|
 
-## Let's CONNECT!
+
+## Let's CONNECT! 🔗
 <p align="center">
 <a href="https://www.linkedin.com/in/sicheng-xu/" target="_blank"><img align="center" alt="Sicheng Xu | Linkedin" width="48px" src="https://github.com/user-attachments/assets/07cb82f8-4783-412e-a147-19b8444d927b" /></a>
 <a href="mailto:sicheng.xu.work@gmail.com" target="_blank"><img align="center" alt="Sicheng Xu | Gmail" width="58px" src="https://github.com/user-attachments/assets/cd28386d-4fe8-4649-8a5c-149ccc24fcaa" /></a>
 <a href="https://x.com/SeechangeXu" target="_blank"><img align="center" alt="Sicheng Xu | X" width="42px" src="https://github.com/user-attachments/assets/5bcea35e-d7f8-4c3d-9329-cb2277858f7e" /></a>
 </p>
-
 </div>
+
+<figure><img src="https://github.com/user-attachments/assets/898d6d50-cd14-4d54-bc6b-df47b80de555")></figure>
+<div align="center">
+<i style="color: blue;">"We are happy because we are already connected!"</i>
+</div>
+
+

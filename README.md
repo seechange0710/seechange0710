@@ -39,9 +39,7 @@
 </p>
 </div>
 
-<figure><img src="https://github.com/user-attachments/assets/898d6d50-cd14-4d54-bc6b-df47b80de555")></figure>
+<figure><img src="https://github.com/user-attachments/assets/67e8ba99-af00-4a64-851a-1d7b2bc84161")></figure>
 <div align="center">
 <i style="color: blue;">"We are happy because we are already connected!"</i>
 </div>
-
-

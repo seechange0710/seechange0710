@@ -33,7 +33,7 @@
 ## Let's CONNECT!
 <p align="center">
 <a href="https://www.linkedin.com/in/sicheng-xu/" target="_blank"><img align="center" alt="Sicheng Xu | Linkedin" width="48px" src="https://github.com/user-attachments/assets/07cb82f8-4783-412e-a147-19b8444d927b" /></a>
-<a href="sicheng.xu.work@gmail.com" target="_blank"><img align="center" alt="Sicheng Xu | Gmail" width="58px" src="https://github.com/user-attachments/assets/cd28386d-4fe8-4649-8a5c-149ccc24fcaa" /></a>
+<a href="mailto:sicheng.xu.work@gmail.com" target="_blank"><img align="center" alt="Sicheng Xu | Gmail" width="58px" src="https://github.com/user-attachments/assets/cd28386d-4fe8-4649-8a5c-149ccc24fcaa" /></a>
 <a href="https://x.com/SeechangeXu" target="_blank"><img align="center" alt="Sicheng Xu | X" width="42px" src="https://github.com/user-attachments/assets/5bcea35e-d7f8-4c3d-9329-cb2277858f7e" /></a>
 </p>
 

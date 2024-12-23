@@ -29,6 +29,7 @@
 | :----: | :-------: |:----:|
 |[Master_thesis](https://github.com/seechange0710/Master-thesis)| Scripts used for raw data preprocessing of bulk RNAseq data in master thesis project|finished|
 |[Tools_Dev](https://github.com/seechange0710/Tools_Dev)| Open-source codes aimed to providing easy access to biological data query and analysis|regular update|
+|[ML_Notebook](https://github.com/seechange0710/ML_Notebook)|Practices and examples of machine learning applications|regular update|
 
 
 ## Let's CONNECT! 🔗
